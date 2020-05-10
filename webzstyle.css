@@ -1,0 +1,30 @@
+
+body{font-family: Arial,Helvetica,sans-serif;
+    line-height: 1.6em;
+    margin: 0;}
+
+.container{width:80%;}
+.container{margin:auto;}
+.container{overflow: hidden;}
+
+
+
+#header{background-color: navy}
+#header{border:25px navy solid;}
+#header{font-size: 45px;}
+#header{color: white;}
+
+#nav li{display: inline;
+        padding-right: 20px;
+        font-size: 20px}
+
+#nav{background-color: black;
+     color:white;
+    padding-top: 2px;}
+
+
+#section{background-image: url('sea.jpg');}
+#section{background-position: center right;
+        height:300px;
+        margin-bottom:30px;
+        text-align: center;}
